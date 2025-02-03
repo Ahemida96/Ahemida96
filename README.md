@@ -42,7 +42,7 @@ When not orchestrating Kubernetes clusters, you'll find me tinkering with IoT pr
 
 **Certifications**  
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Developer-FF9900?style=for-the-badge&logo=amazon-aws)
-![Huawei Certified](https://img.shields.io/badge/Huawei-Certified%20Network%20Expert-red?style=for-the-badge&logo=huawei)
+![Huawei Certified](https://img.shields.io/badge/Huawei-Certified%20Developer%20-red?style=for-the-badge&logo=huawei)
 
 ---
 
@@ -67,7 +67,7 @@ When not orchestrating Kubernetes clusters, you'll find me tinkering with IoT pr
 - Optimized Nginx configs resulting in **20% latency reduction** ⚡
 - Automated EC2 lifecycle management with AWS Lambda (**30% manual work reduction**) 🤖
 - Enhanced network uptime by **25%** through infrastructure optimization 📈
-<p align="center"> **`AWS`** **`Kubernetes`** **`Terraform`** **`Python`** </p>
+  **`AWS`** **`Kubernetes`** **`Terraform`** **`Python`**
 ---
 
 ### 📈 GitHub Stats
