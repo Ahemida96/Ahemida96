@@ -49,7 +49,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahemida96&layout=compact&theme=dark)
 
-![AWS Certified](https://badgen.net/badge/AWS/Certified%20Developer/orange?icon=aws)
+# ![AWS Certified](https://badgen.net/badge/AWS/Certified%20Developer/orange?icon=aws)
+![Contribution Snake](https://raw.githubusercontent.com/Ahemida96/Ahemida96/output/github-contribution-grid-snake.svg)
 
 ---
 
