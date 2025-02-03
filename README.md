@@ -67,7 +67,7 @@ When not orchestrating Kubernetes clusters, you'll find me tinkering with IoT pr
 - Optimized Nginx configs resulting in **20% latency reduction** ⚡
 - Automated EC2 lifecycle management with AWS Lambda (**30% manual work reduction**) 🤖
 - Enhanced network uptime by **25%** through infrastructure optimization 📈
-
+<p align="center"> **`AWS`** **`Kubernetes`** **`Terraform`** **`Python`** </p>
 ---
 
 ### 📈 GitHub Stats
@@ -96,4 +96,5 @@ When not orchestrating Kubernetes clusters, you'll find me tinkering with IoT pr
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahemida96&color=blueviolet" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Ahemida96?label=Followers&style=social" alt="GitHub Followers" />
 </p>
