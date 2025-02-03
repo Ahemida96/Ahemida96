@@ -49,13 +49,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahemida96&layout=compact&theme=dark)
 
---
+![AWS Certified](https://badgen.net/badge/AWS/Certified%20Developer/orange?icon=aws)
+
+---
 
 ### 📚 Certifications
 
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Developer-yellow?style=for-the-badge&logo=amazon-aws)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-Certified_System_Administrator-red?style=for-the-badge&logo=red-hat)
-![Cisco](https://img.shields.io/badge/Cisco-CCNA-blue?style=for-the-badge&logo=cisco)
+![Huawei Certified](https://img.shields.io/badge/huawei?style=for-the-badge&logo=huawei)
 
 ---
 
