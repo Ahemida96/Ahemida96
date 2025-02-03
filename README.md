@@ -47,6 +47,10 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahemida96&layout=compact&theme=dark)
+
+--
+
 ### 📚 Certifications
 
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Developer-yellow?style=for-the-badge&logo=amazon-aws)
