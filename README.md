@@ -44,13 +44,14 @@
 - Automated EC2 lifecycle management with AWS Lambda (**30% manual work reduction**) 🤖
 - Implemented self-hosted GitHub Actions runners for AWS deployments 🛠️
 - Enhanced network uptime by **25%** through infrastructure optimization 📈
-
+**`AWS`** **`Kubernetes`** **`Terraform`** **`Python`**
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahemida96&layout=compact&theme=dark)
 
-# ![AWS Certified](https://badgen.net/badge/AWS/Certified%20Developer/orange?icon=aws)
 ![Contribution Snake](https://raw.githubusercontent.com/Ahemida96/Ahemida96/output/github-contribution-grid-snake.svg)
+
+![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,python,bash,ansible,jenkins)
 
 ---
 
@@ -69,6 +70,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahemida96&theme=dark" width="45%"/>
 </p>
 
+---
+> "Ahmed's Nginx optimizations transformed our infrastructure reliability" - CloudOps Team Lead
 ---
 
 ### 📫 Let's Connect!
