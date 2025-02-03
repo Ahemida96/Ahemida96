@@ -2,10 +2,17 @@
 ### **DevOps Engineer** ☁️🚀
 
 🌟 **About Me**  
-> *"Automating the future, one cloud at a time"*  
-Cloud-native enthusiast with a passion for building resilient infrastructure and cutting-edge CI/CD pipelines.  
-When not orchestrating Kubernetes clusters, you'll find me tinkering with IoT projects or competing in CTF challenges.  
-**Fun Fact:** Automated my morning coffee routine using Raspberry Pi + AWS IoT Core ☕
+> *"Automation-first DevOps Engineer building bridges between code and cloud"*  
+Specialist in CI/CD pipelines (GitHub Actions/Jenkins) and infrastructure as code (Terraform/Ansible).  
+Currently obsessed with Kubernetes orchestration and cost-optimized AWS architectures.  
+Daily driver tools: AWS ECS, Docker, Prometheus, and Python for infrastructure scripting.  
+
+**Fun Fact:** Automated my home server deployments using Ansible playbooks – now my media center updates itself via GitOps! 🚀
+
+**Recent Automation Wins:**  
+✓ EC2 lifecycle management with Lambda  
+✓ Self-healing Nginx clusters in Kubernetes  
+✓ GitHub Actions deployment pipelines  
 
 <p align="center">
   <a href="mailto:ahmedhemida121@gmail.com">
