@@ -62,12 +62,13 @@ When not orchestrating Kubernetes clusters, you'll find me tinkering with IoT pr
 
 ---
 
-### 🚀 Recent Achievements
+### 🚀 Recent Achievements 
+**`AWS`** **`Linux`** **`Terraform`** **`Python`** **`Docker`**
 
 - Optimized Nginx configs resulting in **20% latency reduction** ⚡
 - Automated EC2 lifecycle management with AWS Lambda (**30% manual work reduction**) 🤖
 - Enhanced network uptime by **25%** through infrastructure optimization 📈
-  **`AWS`** **`Kubernetes`** **`Terraform`** **`Python`**
+  
 ---
 
 ### 📈 GitHub Stats
