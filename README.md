@@ -34,6 +34,9 @@ Daily driver tools: AWS ECS, Docker, Prometheus, and Python for infrastructure s
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **CI/CD & Automation**  
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -48,7 +51,7 @@ Daily driver tools: AWS ECS, Docker, Prometheus, and Python for infrastructure s
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Certifications**  
-![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Developer-FF9900?style=for-the-badge&logo=amazon-aws)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws)
 ![Huawei Certified](https://img.shields.io/badge/Huawei-Certified%20Developer%20-red?style=for-the-badge&logo=huawei)
 
 ---
